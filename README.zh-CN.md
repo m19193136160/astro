@@ -78,7 +78,7 @@
 |  ├── content
 |  |  ├── blog
 |  |  |  ├── markdown-style-guide.md
-|  |  |  └── using-mdx.mdx
+|  |  |  └── news.mdx
 |  |  └── config.ts
 |  ├── env.d.ts
 |  ├── layouts
