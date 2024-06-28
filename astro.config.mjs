@@ -6,7 +6,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 export default defineConfig({
-  site: 'https://www.saroprock.com',
+  site: 'https://astro-omega-orpin.vercel.app',
   style: {
     scss: {
       includePaths: ['./src/styles'],
